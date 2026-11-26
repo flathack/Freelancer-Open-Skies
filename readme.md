@@ -13,9 +13,9 @@ Open Skies rebuilds the engine behind Microsoft's and Digital Anvil's space clas
 
 ### Recent development
 
-- 2026-11-25 · Asteroid mining and collisions
-- 2026-11-25 · Docking, launch and faction clearance
-- 2026-11-25 · Cargo pods, debris and salvage
+- 2026-11-26 · Trading, ship purchases and equipment
+- 2026-11-26 · System travel and navigation
+- 2026-11-26 · Asteroid mining and collisions
 
 Latest accepted packages · Original save-game import; Random jobs and mission completion; Mission scripting, objectives and persistence
 
